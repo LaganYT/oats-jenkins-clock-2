@@ -8,7 +8,6 @@
   >
     <ClockTwo :hrs="oatsHrs" :mins="oatsMins" :secs="oatsSecs" />
   </div>
-      <iframe src="https://dtote.github.io/vue-clock/" width="500%" height="50%"></iframe>
 </template>
 
 <script>
