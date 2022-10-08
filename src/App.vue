@@ -7,6 +7,7 @@
     }"
   >
     <ClockTwo :hrs="oatsHrs" :mins="oatsMins" :secs="oatsSecs" />
+          <iframe src="https://laganyt.github.io/vue-clock/" width="50%" height="50%"></iframe>
   </div>
 </template>
 
