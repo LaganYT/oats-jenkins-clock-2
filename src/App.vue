@@ -7,32 +7,6 @@
     }"
   >
     <ClockTwo :hrs="oatsHrs" :mins="oatsMins" :secs="oatsSecs" />
-    <p class="credits">
-      <span class="credits__concept">
-        Concept by
-        <a
-          class="credits__concept-label"
-          href="https://www.youtube.com/watch?v=iHK-aN3XZqw"
-          target="_blank"
-          >Oats Jenkins</a
-        >
-      </span>
-      <span class="credits__code">
-        App by
-        <a
-          class="credits__code-label"
-          href="https://github.com/LennartJKlein/oats-jenkins-clock-2"
-          target="_blank"
-          ><img class="credits__code-icon" src="./assets/icon-github.svg"
-        /></a>
-      </span>
-      <a
-        class="credits__source"
-        href="https://clock-two.netlify.app/"
-        target="_blank"
-      ><img class="credits__source-icon" src="./assets/icon-fullscreen.svg"
-      /></a>
-    </p>
   </div>
 </template>
 
