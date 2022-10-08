@@ -22,6 +22,7 @@
         String(Math.trunc(oatsMins + 1)).padStart(2, "0")
       }}:{{ String(Math.trunc(oatsSecs + 1)).padStart(3, "0") }}
     </text>
+          <iframe src="https://dtote.github.io/vue-clock/" width="50%" height="50%"></iframe>
   </svg>
 </template>
 
