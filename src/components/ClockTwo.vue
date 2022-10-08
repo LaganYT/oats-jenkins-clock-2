@@ -22,7 +22,6 @@
         String(Math.trunc(oatsMins + 1)).padStart(2, "0")
       }}:{{ String(Math.trunc(oatsSecs + 1)).padStart(3, "0") }}
     </text>
-    <a href="/time">Local Time</a>
   </svg>
 </template>
 
